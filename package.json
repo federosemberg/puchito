@@ -17,8 +17,8 @@
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
     "express": "^4.21.1",
-    "google-auth-library": "^9.15.0",
-    "google-spreadsheet": "^4.1.4",
+    "google-auth-library": "^8.7.0",
+    "google-spreadsheet": "^3.3.0",
     "openai": "^4.73.1",
     "qrcode-terminal": "^0.12.0",
     "whatsapp-web.js": "^1.26.0"
