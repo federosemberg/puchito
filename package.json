@@ -1,0 +1,23 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "google-auth-library": "^9.15.0",
+    "google-spreadsheet": "^4.1.4",
+    "openai": "^4.73.1",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.26.0"
+  }
+}
